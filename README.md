@@ -8,7 +8,7 @@ THIS IS A WEBSITE THAT NEEDED THE CSS & HTML CONSOLIDATED
 
 Image below for reference
 
-![screenshot](challenge1refactor\assets\images\screenshot1.jpg)
+![screenshot](assets/images/screenshot1.jpg)
 
 View URL at ![web page](https://micci11.github.io/challenge1refactor/)
 
