@@ -1,10 +1,10 @@
-# Portfolio
-THIS IS THE SKELETAL STRUCTURE OF MY PORTFOLIO
+# challenge1refactor
+THIS IS THE FIRST ASSIGNMENT FROM MODULE 1
 
 
 # Description
 
-This portfolio was created for future employers
+THIS IS A WEBSITE THAT NEEDED THE CSS & HTML CONSOLIDATED 
 
 Image below for reference
 
