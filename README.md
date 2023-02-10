@@ -10,7 +10,7 @@ Image below for reference
 
 ![screenshot](assets/images/screenshot1.jpg)
 
-View URL at ![web page](https://micci11.github.io/challenge1refactor/)
+
 
 # Installation
 
