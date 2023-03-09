@@ -17,6 +17,16 @@ body {
     color: #ffffff;
 }
 
+.nav {
+    display:inline
+
+}
+
+.nav-li{
+    display: inline;
+    
+}
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
