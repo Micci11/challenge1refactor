@@ -1,10 +1,9 @@
 # challenge1refactor
-THIS IS THE FIRST ASSIGNMENT FROM MODULE 1
-
+This is the first assignment from module 1 
 
 # Description
 
-THIS IS A WEBSITE THAT NEEDED THE CSS & HTML CONSOLIDATED 
+ CSS and HTML was consolidated for efficiency
 
 Image below for reference
 
@@ -14,16 +13,20 @@ View URL at https://micci11.github.io/challenge1refactor/
 
 # Installation
 
-N/A
+To install this project, follow these steps:
+
+-Clone/download the repository to your local machine.
+-Install the necessary dependencies by running the command npm install in your terminal.
+-Configure any necessary environment variables as needed.
 
 # Usage
 
 N/A
 
+# License
+
+ See the LICENSE file for details.
+
 # Credits
 
 N/A
-
-# License
-
-Please refer to the LICENSE in the repo.
